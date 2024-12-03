@@ -26,4 +26,4 @@ This project showcases the development of a **Library Management System** using 
 
 ## Conclusion
 
-This project highlights the application of SQL skills in building and managing a library management system, covering database setup, data manipulation, and complex queries. It provides a strong foundation for database management and analysis.
+This project highlights the application of SQL skills in building and managing a library management system, covering database setup, data manipulation, and complex queries.
